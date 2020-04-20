@@ -46,15 +46,15 @@ async def _(event):
             "`Calling myran`  `At +916969696969`",
             "`Private  Call Connected...`",
             "`Me: Hello Sir, Please Ban This Telegram Account.`",    
-            "`Pavel: May I Know Who Is This?`",
-            "`Me: Yo Brah, I Am` @Halto_Tha ",
-            "`Pavel: OMG!!! Long time no see, Wassup Brother...\nI'll Make Sure That Guy Account Will Get Blocked Within 24Hrs.`",
+            "`myran: May I Know Who Is This?`",
+            "`Me: Yo Brah, I Am` @obsquriel ",
+            "`myran: OMG!!! Long time no see, Wassup Brother...\nI'll Make Sure That Guy Account Will Get Blocked Within 24Hrs.`",
             "`Me: Thanks, See You Later Brah.`",
-            "`Pavel: Please Don't Thank Brah, Telegram Is Our's. Just Gimme A Call When You Become Free.`",
+            "`myran: Please Don't Thank Brah, Telegram Is Our's. Just Gimme A Call When You Become Free.`",
             "`Me: Is There Any Issue/Emergency???`",
-            "`Pavel: Yes Sur, There Is A Bug In Telegram v69.6.9.\nI Am Not Able To Fix It. If Possible, Please Help Fix The Bug.`",
+            "`myran: Yes Sur, There Is A Bug In Telegram v69.6.9.\nI Am Not Able To Fix It. If Possible, Please Help Fix The Bug.`",
             "`Me: Send Me The App On My Telegram Account, I Will Fix The Bug & Send You.`",
-            "`Pavel: Sure Sur \nTC Bye Bye :)`",
+            "`myran: Sure Sur \nTC Bye Bye :)`",
             "`Private Call Disconnected.`"
         ]
 
